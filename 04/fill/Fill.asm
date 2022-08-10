@@ -26,7 +26,7 @@
 //end at address 24576
 
 (START)
-        @24560
+        @16384
 	D=A
 	@w	//keep track of the address
 	M=D
